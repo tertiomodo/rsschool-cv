@@ -1,1 +1,1 @@
-# rsschool-cv
+link to CV: https://github.com/tertiomodo/rsschool-cv/blob/gh-pages/cv.md 
