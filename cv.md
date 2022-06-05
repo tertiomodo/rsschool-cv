@@ -1,4 +1,4 @@
-![avtar](img/avatar.jpg {width=200px height=200px})
+![avtar](img/avatar.jpg)
 
 # Aleksandr Muchin
 
