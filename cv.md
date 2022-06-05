@@ -1,22 +1,23 @@
-![avtar](img/avatar.jpg =200x200)
+![avtar](img/avatar.jpg {width=200px height=200px})
 
 # Aleksandr Muchin
 
-## * My contacts
-    **Email**: itertiomodo@gmail.com
-    **Tel**: +79522704908
-    **Telegram**: @tertiomodo
-    **Discord**: @tertiomodo 
+## My contacts
+  * **Email**: itertiomodo@gmail.com
+   * **Tel**: +79522704908
+   * **Telegram**: @tertiomodo
+   * **Discord**: @tertiomodo 
 *****
 ## Brief information about yourself
 My goal is to become a developer and work in a large IT company, come up with and implement interesting projects and ideas, as well as learn new things and constantly replenish my knowledge base. 
 
 My strengths are perseverance, accuracy, purposefulness, perseverance.
 *****
-## * Basic Skills
-    * Html
-    * CSS
-    * Git
+## Skills
+* Basic skills:
+  * Html
+  * CSS
+  * Git
 
 ## Code examples
 ```
