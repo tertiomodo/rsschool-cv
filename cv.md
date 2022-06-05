@@ -26,9 +26,11 @@ c=x*y;
 console.log (c);
 ```
 *****
+## My projects
 This CV is my first project
-Ссылка на CV 
 
+https://github.com/tertiomodo/rsschool-cv/blob/gh-pages/cv.md 
+*****
 ## Education
 Mainly self-study and video courses on youtube
 
