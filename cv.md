@@ -1,4 +1,4 @@
-![avtar](img/avatar.jpg)
+![avtar](assets/img/my-photo.jpg)
 
 # Aleksandr Muchin
 
@@ -11,10 +11,10 @@
 ## Brief information about yourself
 My goal is to become a developer and work in a large IT company, come up with and implement interesting projects and ideas, as well as learn new things and constantly replenish my knowledge base. 
 
-My strengths are perseverance, accuracy, purposefulness, perseverance.
+My strengths are perseverance, accuracy, purposefulness.
 *****
 ## Skills
-* Basic skills:
+Basic skills:
   * Html
   * CSS
   * Git
