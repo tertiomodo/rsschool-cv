@@ -11,7 +11,7 @@
 ## Brief information about yourself
 My goal is to become a developer and work in a large IT company, come up with and implement interesting projects and ideas, as well as learn new things and constantly replenish my knowledge base. 
 
-My strengths are perseverance, accuracy, purposefulness.
+My strengths are, accuracy, purposefulness, perseverance.
 *****
 ## Skills
 Basic skills:
