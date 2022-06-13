@@ -1,1 +1,1 @@
-# rsschool-cv
+link to CV: https://tertiomodo.github.io/rsschool-cv/ 
